@@ -6,12 +6,7 @@ A **TODO List** application built with a **Node.js backend** and a **React front
 
 ## Features
 
-- Create, update, and delete tasks.
-- Organize tasks by:
-  - **Text**
-  - **Color**
-  - **Group** (*Planned*, *In Progress*, *Completed*).
-- Set the order of tasks for better organization.
+- Create, mark, and delete tasks.
 - Simple and intuitive interface.
 
 ---
