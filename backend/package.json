@@ -1,0 +1,17 @@
+{
+  "name": "fresh-code-backend",
+  "version": "0.1.0",
+  "description": "backend for todo list",
+  "license": "MIT",
+  "author": "Nazar Tarasiuk",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.21.2",
+    "sqlite3": "5.1.1",
+    "cors": "2.8.5"
+  }
+}
